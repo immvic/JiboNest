@@ -9,7 +9,7 @@ What we're working toward
 
 These are development goals, not a promise of compatibility or production readiness.
 # Current status
-## The implementation is currently private. This public repository initially contains only this README, not runnable software or installation instructions.
+The implementation is currently private. This public repository initially contains only this README, not runnable software or installation instructions.
 
 Development and integration testing use isolated local environments, synthetic inputs, and mocked Home Assistant services. The JiboNest backend has not been deployed to or connected to a physical Jibo. Physical compatibility, provisioning, and recovery still require separately planned validation.
 
