@@ -6,6 +6,7 @@ What we're working toward
 - More helpful smart-home conversations: extend Home Assistant integration for lights, brightness, RGB colors, fans, climate controls, and media devices—with careful authorization and safe handling of ambiguous requests.
 - The same familiar personality: preserve native heard-text display, friendly confusion responses, and conversation behavior rather than replacing Jibo with generic technical messages.
 - A dependable local backend: test authentication, conversation completion, reconnects, and failure recovery before considering physical integration.
+- 
 These are development goals, not a promise of compatibility or production readiness.
 # Current status
 The implementation is currently private. This public repository initially contains only this README, not runnable software or installation instructions.
